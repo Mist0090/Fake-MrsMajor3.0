@@ -1,0 +1,8 @@
+C:\Users\Owner\デスクトップ\MrsMajor3.0\logonuiOWR\bin\Debug\logonuiOWR.exe
+C:\Users\Owner\デスクトップ\MrsMajor3.0\logonuiOWR\bin\Debug\logonuiOWR.pdb
+C:\Users\Owner\デスクトップ\MrsMajor3.0\logonuiOWR\obj\Debug\logonuiOWR.csproj.AssemblyReference.cache
+C:\Users\Owner\デスクトップ\MrsMajor3.0\logonuiOWR\obj\Debug\logonuiOWR.Properties.Resources.resources
+C:\Users\Owner\デスクトップ\MrsMajor3.0\logonuiOWR\obj\Debug\logonuiOWR.csproj.GenerateResource.cache
+C:\Users\Owner\デスクトップ\MrsMajor3.0\logonuiOWR\obj\Debug\logonuiOWR.csproj.CoreCompileInputs.cache
+C:\Users\Owner\デスクトップ\MrsMajor3.0\logonuiOWR\obj\Debug\logonuiOWR.exe
+C:\Users\Owner\デスクトップ\MrsMajor3.0\logonuiOWR\obj\Debug\logonuiOWR.pdb
