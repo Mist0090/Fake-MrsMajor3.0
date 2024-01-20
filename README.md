@@ -5,3 +5,6 @@
 作成者は一切責任を負いません。
 
 MrsMajor3.0を再現したもの
+
+参照:
+https://github.com/Gork3m/MrsMajor-3.0/tree/master
